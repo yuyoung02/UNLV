@@ -1,1 +1,1 @@
-[<img width="418" height="120" alt="image" src="https://github.com/user-attachments/assets/60971614-1f00-466d-8f4b-54bcceb2345c" />](https://storage.googleapis.com/cdn.thenevadaindependent.com/2020/06/538afb2f-unlv-logo.jpg)
+<img width="768" height="637" alt="image" src="https://github.com/user-attachments/assets/6b1d2231-e12a-414e-a7a5-608e1226d0e3" />
